@@ -1,2 +1,2 @@
-#!/bin/bas 
-U+1F615
+#!/bin/bash
+#echo -e "\U+1F615"
